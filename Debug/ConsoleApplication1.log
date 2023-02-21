@@ -1,0 +1,4 @@
+﻿ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции _main.
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowHint в функции _main.
+D:\Programz\C\CG\ConsoleApplication1\lib\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\Programz\C\CG\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
